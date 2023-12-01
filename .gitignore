@@ -1,0 +1,12 @@
+# Build artifacts.
+*.o
+*.d
+*.elf
+*.iso
+
+# Limine is automatically downloaded.
+limine/
+
+# LSP cache
+.cache/
+compile_commands.json
